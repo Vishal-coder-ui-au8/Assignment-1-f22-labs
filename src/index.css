@@ -1,0 +1,705 @@
+.Landing-1 {
+  width: 1440px;
+  height: 5063px;
+  background-color: white;
+}
+.Oval img {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  }
+
+.Omega {
+  width: 71px;
+  height: 28px;
+  object-fit: contain;
+  font-family: CircularStd;
+  font-size: 21.6px;
+  font-weight: 900;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: -0.68px;
+  color: #19191b;
+  position: absolute;
+  top: 20px;
+  left: 32px;
+}
+
+.BG {
+  position: absolute;
+  width: 127px;
+  height: 41px;
+  top: 15px;
+  right: 15px;
+  border-radius: 4.5px;
+  border: solid 0.9px #c31a12;
+  background-color: #f04037;
+}
+
+.Get-Started {
+  position: absolute;
+  width: 127px;
+  height: 18px;
+  font-family: CircularStd;
+  font-size: 14.4px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: -0.45px;
+  text-align: center;
+  color: white;
+  top: 12px;
+  bottom: 11px;
+
+}
+
+
+.Support {
+  position: absolute;
+  width: 204px;
+  height: 18px;
+  font-family: CircularStd;
+  font-size: 14.4px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: -0.45px;
+  text-align: right;
+  color: #19191b;
+  top: 27px;
+  right: 176px;
+}
+
+.Pages {
+  position: absolute;
+  width: 204px;
+  height: 18px;
+  font-family: CircularStd;
+  font-size: 14.4px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: -0.45px;
+  text-align: right;
+  color: #19191b;
+  top: 27px;
+  right: 255px;
+}
+
+
+.Bitmap {
+  position: absolute;
+  top:34px;
+  right: 320px;
+  width: 8px;
+  height: 5px;
+  background-color: #19191b;
+}
+
+.Demo {
+  position: absolute;
+  width: 204px;
+  height: 18px;
+  font-family: CircularStd;
+  font-size: 14.4px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: -0.45px;
+  text-align: right;
+  color: #19191b;
+  top: 27px;
+  right: 337px;
+}
+
+.Demos-Pages-Support .text-style-1 {
+  color: #5454d4;
+}
+
+.Redesigned-how-you {
+  width: 622px;
+  position: absolute;
+  height: 227px;
+  margin: 0 0 22px;
+  font-family: CircularStd;
+  font-size: 72px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.05;
+  letter-spacing: -2.25px;
+  color: #19191b;
+  top: 241px;
+  left:218px;
+}
+
+.iPhone-Body {
+  position: absolute;
+  width: 297px;
+  height: 593px;
+  object-fit: contain;
+  background-color: rgba(0, 0, 0, 0);
+  top: 173px;
+  right: 290px;
+}
+
+.Create-custom-landin {
+  position: absolute;
+  width: 482px;
+  height: 105px;
+  font-family: CircularStd;
+  font-size: 18.9px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.86;
+  letter-spacing: -0.59px;
+  color: #696871;
+  top: 490px;
+  left: 221px;
+}
+
+.BG_2 {
+  position: absolute;
+  width: 180px;
+  height: 54px;
+  border-radius: 4.5px;
+  border: solid 0.9px #c31a12;
+  background-color: #f0544c;
+  top: 627px;
+  left: 221px;
+}
+
+.Get-Started_2 {
+  position: absolute;
+  width: 95px;
+  height: 24px;
+  font-family: CircularStd;
+  font-size: 18.9px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: -0.59px;
+  text-align: center;
+  color: white;
+  top: 15px;
+  bottom: 15px;
+  left: 43px;
+  right: 42px;
+}
+
+.Watch-the-intro-vide {
+  position: absolute;
+  width: 133px;
+  height: 18px;
+  font-family: CircularStd;
+  font-size: 14.4px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: -0.45px;
+  color: #5454d4;
+  top: 696px;
+  left: 240px;
+}
+
+.Path img {
+  position: absolute;
+  width: 10px;
+  height: 12px;
+  object-fit: contain;
+  top: 700px;
+  left: 221px;
+}
+
+.Popular-teams-who-us {
+  position: absolute;
+  width: 343px;
+  height: 25px;
+  font-family: CircularStd;
+  font-size: 16.2px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.56;
+  letter-spacing: -0.51px;
+  color: #696871;
+  top: 890.1px;
+  left: 222.5px;
+}
+
+.logo-1 {
+  position: absolute;
+  width: 129px;
+  height: 28px;
+  object-fit: contain;
+  opacity: 0.6;
+  background-color: #413e65;
+  top: 947.1px;
+  left: 220.5px;
+
+}
+
+.logo-2 {
+  position: absolute;
+  width: 94px;
+  height: 24px;
+  object-fit: contain;
+  opacity: 0.6;
+  background-color: #413e65;
+  top: 950.1px;
+  left: 470.5px;
+}
+
+.logo-3 {
+  position: absolute;
+  width: 122px;
+  height: 23px;
+  object-fit: contain;
+  opacity: 0.6;
+  background-color: #413e65;
+  top: 950.1px;
+  left: 685.5px;
+}
+
+.logo-4 {
+  position: absolute;
+  width: 76px;
+  height: 32px;
+  object-fit: contain;
+  opacity: 0.6;
+  background-color: #413e65;
+  top: 946.1px;
+  left: 929.5px;
+}
+
+.logo-5 {
+  position: absolute;
+  width: 93px;
+  height: 24px;
+  object-fit: contain;
+  opacity: 0.6;
+  background-color: #413e65;
+  top: 950.1px;
+  left: 1126.5px;
+}
+
+.bg2 img {
+  position: absolute;
+  width: 100% ;
+  height: 839px;
+  top: 1017.9px;
+  left: 0px;
+  object-fit: cover;
+  
+}
+
+.bg_box1 {
+  position: absolute;
+  width: 230px;
+  height: 247px;
+  border-radius: 9px;
+  background-color: white;
+  top: 1167.9px;
+  left: 225px;
+}
+
+.Oval_box1 {
+  position: absolute;
+  width: 62px;
+  height: 62px;
+  top: 1190.9px;
+  left: 250px;
+  border-radius: 30px;
+  background-color: rgba(240, 64, 55, 0.1);
+}
+
+.layout-11 {
+  position : absolute;
+  width: 22px;
+  height: 26px;
+  object-fit: contain;
+  top: 1209.9px;
+  left: 271px;
+}
+
+.Multiple-Layouts {
+  position: absolute;
+  width: 179px;
+  height: 28px;
+  font-family: CircularStd;
+  font-size: 21.6px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: -0.68px;
+  color: #19191b;
+  top: 1273.9px;
+  left: 250px;
+}
+
+.With-lots-of-unique {
+  position: absolute;
+  width: 179px;
+  height: 76px;
+  font-family: CircularStd;
+  font-size: 14.4px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.75;
+  letter-spacing: -0.45px;
+  color: #696871;
+  top: 1312.9px;
+  left: 250px;
+}
+
+.bg_box2 {
+  position: absolute;
+  width: 230px;
+  height: 247px;
+  border-radius: 9px;
+  box-shadow: 0 47px 49px 0 rgba(65, 62, 101, 0.3);
+  background-color: white;
+  top: 1167.9px;
+  left: 482px;
+}
+
+.Oval_box2 {
+  position: absolute;
+  width: 62px;
+  border-radius: 30px;
+  top: 1190.9px;
+  left: 507px;
+  height: 62px;
+  background-color: rgba(254, 220, 90, 0.1);
+}
+
+.sidebar {
+  position: absolute;
+  width: 31px;
+  height: 26px;
+  top: 1209.9px;
+  left: 523px;
+  object-fit: contain;
+}
+
+.Fully-Responsive {
+  position: absolute;
+  width: 179px;
+  height: 28px;
+  font-family: CircularStd;
+  font-size: 21.6px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: -0.68px;
+  color: #19191b;
+  top:1273.9px;
+  left:507px;
+}
+
+.With-lots-of-unique-2 {
+  position: absolute;
+  width: 179px;
+  height: 76px;
+  font-family: CircularStd;
+  font-size: 14.4px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.75;
+  letter-spacing: -0.45px;
+  color: #696871;
+  top:1312.9px;
+  left:507px;
+}
+
+.bg_box3 {
+  position:absolute;
+  width: 230px;
+  height: 247px;
+  border-radius: 9px;
+  background-color: white;
+  top:1441.9px;
+  left:225px;
+}
+
+.Oval_box3 {
+  position:absolute;
+  border-radius: 30px;
+  width: 62px;
+  height: 62px;
+  background-color: rgba(84, 84, 212, 0.1);
+  top:1464.9px;
+  left:250px;
+}
+
+.Path_box3 {
+  width: 22px;
+  height: 27px;
+  background-color: #5454d4;
+  top: 1482.9px;
+  left: 271px;
+  position: absolute;
+
+}
+
+.Well-Documented {
+  width: 179px;
+  height: 28px;
+  font-family: CircularStd;
+  font-size: 21.6px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: -0.68px;
+  color: #19191b;
+  top: 1547.9px;
+  left: 250px;
+  position:absolute;
+}
+
+.With-lots-of-unique-3{
+  position: absolute;
+  width: 179px;
+  height: 76px;
+  margin: 11px 0 0;
+  font-family: CircularStd;
+  font-size: 14.4px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.75;
+  letter-spacing: -0.45px;
+  color: #696871;
+  top: 1586.9px;
+  left: 250px;
+}
+
+.bg_box4 {
+  width: 230px;
+  height: 247px;
+  top: 1441.9px;
+  left: 482px;
+  border-radius: 9px;
+  background-color: white;
+  position: absolute;
+}
+
+.Oval_box4 {
+  width: 62px;
+  height: 62px;
+  position: absolute;
+  border-radius: 30px;
+  top: 1464.9px;
+  left: 507px;
+  background-color: rgba(65, 62, 101, 0.1);
+}
+
+.chat-content {
+  position: absolute;
+  top: 1483.9px;
+  left:525px;
+  width: 27px;
+  height: 26px;
+  object-fit: contain;
+}
+
+.Great-Support {
+  position: absolute;
+  width: 179px;
+  height: 28px;
+  font-family: CircularStd;
+  font-size: 21.6px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: -0.68px;
+  color: #19191b;
+  top: 1547.9px;
+  left: 507px;
+}
+
+.With-lots-of-unique-4 {
+  width: 179px;
+  height: 76px;
+  top: 1586.9px;
+  left: 507px;
+  position: absolute;
+  font-family: CircularStd;
+  font-size: 14.4px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.75;
+  letter-spacing: -0.45px;
+  color: #696871;
+}
+
+.Build-a-perfect-land {
+  position: absolute;
+  top: 1254.9px;
+  left:771px;
+  width: 456px;
+  height: 126px;
+  font-family: CircularStd;
+  font-size: 54px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.17;
+  letter-spacing: -1.69px;
+  color: white;
+}
+
+.Create-custom-landin {
+  position: absolute;
+  top: 1408.9px;
+  left: 770px;
+  width: 462px;
+  height: 105px;
+  font-family: CircularStd;
+  font-size: 18.9px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.86;
+  letter-spacing: -0.59px;
+  color: rgba(255, 255, 255, 0.7);
+}
+
+.bg_form2 {
+  position: absolute;
+  top: 1548.9px;
+  left:770px;
+  width: 194px;
+  height: 54px;
+  border-radius: 4.5px;
+  border: solid 0.9px #eae9f2;
+}
+
+.Check-all-features {
+  position: absolute;
+  top: 1563.9px;
+  left: 770px;
+  width: 194px;
+  height: 24px;
+  font-family: CircularStd;
+  font-size: 18.9px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: -0.59px;
+  text-align: center;
+  color: white;
+}
+
+.white-curve-1 {
+  position: absolute;
+  top:1751.9px;
+  width: 1440px;
+  height: 110px;
+  margin: 734px 0 0;
+  object-fit: contain;
+  background-color: white;
+}
+
+.Save-tons-of-time-on {
+  position: absolute;
+  top: 2056px;
+  left:218.7px;
+  width: 473px;
+  height: 126px;
+  font-family: CircularStd;
+  font-size: 54px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.17;
+  letter-spacing: -1.69px;
+  color: #19191b;
+}
+
+.Create-custom-landin-2 {
+  width: 464px;
+  height: 105px;
+  position: absolute;
+  top: 2198px;
+  left:221.7px;
+  font-family: CircularStd;
+  font-size: 18.9px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.86;
+  letter-spacing: -0.59px;
+  color: #696871;
+}
+
+.bg-started-3 {
+  width: 181px;
+  height: 54px;
+  top:2335px;
+  position: absolute;
+  left: 221.7px;
+  border-radius: 4.5px;
+  border: solid 0.9px #c31a12;
+  background-color: #f04037;
+
+}
+
+.Get-Started-3 {
+  width: 181px;
+  height: 24px;
+  font-family: CircularStd;
+  font-size: 18.9px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  position: absolute;
+  top: 2350px;
+  left: 221.7px;
+  line-height: normal;
+  letter-spacing: -0.59px;
+  text-align: center;
+  color: white;
+}
+
+.Rectangle {
+  width: 334px;
+  height: 509px;
+  position: absolute;
+  top: 1982px;
+  left: 871.7px;
+  object-fit: contain;
+  border-radius: 9px;
+  border-style: solid;
+  border-width: 6.3px;
+  border-image-source: linear-gradient(to bottom, rgba(249, 116, 104, 0) 3%, #5454d4);
+  border-image-slice: 1;
+  background-image: linear-gradient(to bottom, rgba(216, 216, 216, 0), rgba(216, 216, 216, 0)), linear-gradient(to bottom, rgba(249, 116, 104, 0) 3%, #5454d4);
+  background-origin: border-box;
+  background-clip: content-box, border-box;
+}
+
+img {
+  width: 342px;
+  height: 510px;
+  position: absolute;
+  top: 1953px;
+  left: 837.7px;
+  object-fit: contain;
+}
