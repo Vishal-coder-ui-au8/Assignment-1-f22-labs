@@ -35,7 +35,7 @@ class Header extends Component {
         </div>
 
 
-        {/* <div className="form-1">
+        <div className="form-1">
             <div className="Redesigned-how-you">Redesigned,<br/> how you build landing page!</div>
             <div className="Create-custom-landin">Create custom landing pages with Omega that convert more <br/>visitors than any website. With lots of unique blocks, you can <br/>easily build a page without coding.</div>
             <div className="BG_2">
@@ -122,8 +122,20 @@ class Header extends Component {
             </div>
         </div>
 
+        <div className="form-3">
+             <div className="Save-tons-of-time-on">Save tons of time<br/> on design & coding.</div>
+             <div className="Create-custom-landin-2">Create custom landing pages with Omega that converts <br/>more visitors than any website. With lots of unique blocks,<br/> you can easily build a page without coding.</div>
+             <div className="bg-started-3"></div>
+             <div className="Get-Started-3">Get Started</div>
+             <div className="Rectangle">
+                 <img src={rectangle}/>
+             </div>
+             <div className="image">
+                 <img src={image}/>
+             </div>
+        </div>
         
-         */}
+        
 
 
 
