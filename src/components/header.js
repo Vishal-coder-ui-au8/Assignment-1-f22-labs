@@ -23,7 +23,7 @@ class Header extends Component {
         <div className="Landing-1">
 
         <div className="Oval">
-           <img src={Oval}/> 
+           <img src={Oval}/>    
            <div className="Omega">Omega</div>   
            <div className="BG">
                 <div className="Get-Started">Get Started</div>
@@ -49,7 +49,7 @@ class Header extends Component {
                 <img src={iphone}/>
             </div>
   
-            <div className="Popular-teams-who-us">Popular teams who use Omega for appoinments </div>
+            <div className="Popular-teams-who-us">Popular teams who use Omega for appoinments. </div>
             <div className="logo-1">
                    <img src={logo_1}/>
             </div>
@@ -65,7 +65,7 @@ class Header extends Component {
             <div className="logo-5">
                   <img src={logo_5}/>
             </div>
-        </div>
+        </div> 
 
         <div className="form-2">
             <div className="bg2">
@@ -122,18 +122,6 @@ class Header extends Component {
             </div>
         </div>
 
-        <div className="form-3">
-             <div className="Save-tons-of-time-on">Save tons of time<br/> on design & coding.</div>
-             <div className="Create-custom-landin-2">Create custom landing pages with Omega that converts <br/>more visitors than any website. With lots of unique blocks,<br/> you can easily build a page without coding.</div>
-             <div className="bg-started-3"></div>
-             <div className="Get-Started-3">Get Started</div>
-             <div className="Rectangle">
-                 <img src={rectangle}/>
-             </div>
-             <div className="image">
-                 <img src={image}/>
-             </div>
-        </div>
         
         
 

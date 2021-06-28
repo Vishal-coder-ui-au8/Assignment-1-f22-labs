@@ -2,12 +2,18 @@
   width: 1440px;
   height: 5063px;
   background-color: white;
+  overflow: hidden;
 }
-.Oval img {
+
+.Oval img{
   position: absolute;
+  width: 610px;
+  height: 610px;
+  object-fit: contain;
   top: 0px;
   left: 0px;
-  }
+ 
+}
 
 .Omega {
   width: 71px;
@@ -135,23 +141,24 @@
   letter-spacing: -2.25px;
   color: #19191b;
   top: 241px;
-  left:218px;
+  left:248px;
 }
 
-.iPhone-Body {
+.iPhone-Body img{
   position: absolute;
   width: 297px;
   height: 593px;
   object-fit: contain;
   background-color: rgba(0, 0, 0, 0);
   top: 173px;
-  right: 290px;
+  left: 935px;
+  
 }
 
 .Create-custom-landin {
-  position: absolute;
   width: 482px;
   height: 105px;
+  position: absolute;
   font-family: CircularStd;
   font-size: 18.9px;
   font-weight: normal;
@@ -161,7 +168,6 @@
   letter-spacing: -0.59px;
   color: #696871;
   top: 490px;
-  left: 221px;
 }
 
 .BG_2 {
@@ -172,7 +178,7 @@
   border: solid 0.9px #c31a12;
   background-color: #f0544c;
   top: 627px;
-  left: 221px;
+  left: 248px;
 }
 
 .Get-Started_2 {
@@ -188,8 +194,8 @@
   letter-spacing: -0.59px;
   text-align: center;
   color: white;
-  top: 15px;
-  bottom: 15px;
+  top: 18px;
+  bottom: 8px;
   left: 43px;
   right: 42px;
 }
@@ -207,7 +213,7 @@
   letter-spacing: -0.45px;
   color: #5454d4;
   top: 696px;
-  left: 240px;
+  left: 264px;
 }
 
 .Path img {
@@ -215,8 +221,8 @@
   width: 10px;
   height: 12px;
   object-fit: contain;
-  top: 700px;
-  left: 221px;
+  top: 698px;
+  left: 248px;
 }
 
 .Popular-teams-who-us {
@@ -232,68 +238,63 @@
   letter-spacing: -0.51px;
   color: #696871;
   top: 890.1px;
-  left: 222.5px;
+  left: 248px;
 }
 
-.logo-1 {
+.logo-1 img{
   position: absolute;
   width: 129px;
   height: 28px;
   object-fit: contain;
   opacity: 0.6;
-  background-color: #413e65;
   top: 947.1px;
-  left: 220.5px;
+  left: 248px;
 
 }
 
-.logo-2 {
+.logo-2 img{
   position: absolute;
   width: 94px;
   height: 24px;
   object-fit: contain;
   opacity: 0.6;
-  background-color: #413e65;
   top: 950.1px;
-  left: 470.5px;
+  left: 464px;
 }
 
-.logo-3 {
+.logo-3 img{
   position: absolute;
   width: 122px;
   height: 23px;
   object-fit: contain;
   opacity: 0.6;
-  background-color: #413e65;
   top: 950.1px;
-  left: 685.5px;
+  left: 700px;
 }
 
-.logo-4 {
+.logo-4 img{
   position: absolute;
   width: 76px;
   height: 32px;
   object-fit: contain;
   opacity: 0.6;
-  background-color: #413e65;
   top: 946.1px;
-  left: 929.5px;
+  left: 999px;
 }
 
-.logo-5 {
+.logo-5 img{
   position: absolute;
   width: 93px;
   height: 24px;
   object-fit: contain;
   opacity: 0.6;
-  background-color: #413e65;
   top: 950.1px;
-  left: 1126.5px;
+  left: 1195px;
 }
 
 .bg2 img {
   position: absolute;
-  width: 100% ;
+  width: 100%;
   height: 839px;
   top: 1017.9px;
   left: 0px;
@@ -308,7 +309,7 @@
   border-radius: 9px;
   background-color: white;
   top: 1167.9px;
-  left: 225px;
+  left: 248px;
 }
 
 .Oval_box1 {
@@ -316,18 +317,18 @@
   width: 62px;
   height: 62px;
   top: 1190.9px;
-  left: 250px;
+  left: 273px;
   border-radius: 30px;
   background-color: rgba(240, 64, 55, 0.1);
 }
 
-.layout-11 {
+.layout-11 img{
   position : absolute;
   width: 22px;
   height: 26px;
   object-fit: contain;
   top: 1209.9px;
-  left: 271px;
+  left: 294px;
 }
 
 .Multiple-Layouts {
@@ -343,7 +344,7 @@
   letter-spacing: -0.68px;
   color: #19191b;
   top: 1273.9px;
-  left: 250px;
+  left: 273px;
 }
 
 .With-lots-of-unique {
@@ -359,7 +360,7 @@
   letter-spacing: -0.45px;
   color: #696871;
   top: 1312.9px;
-  left: 250px;
+  left: 273px;
 }
 
 .bg_box2 {
@@ -370,7 +371,7 @@
   box-shadow: 0 47px 49px 0 rgba(65, 62, 101, 0.3);
   background-color: white;
   top: 1167.9px;
-  left: 482px;
+  left: 505px;
 }
 
 .Oval_box2 {
@@ -378,17 +379,17 @@
   width: 62px;
   border-radius: 30px;
   top: 1190.9px;
-  left: 507px;
+  left: 530px;
   height: 62px;
   background-color: rgba(254, 220, 90, 0.1);
 }
 
-.sidebar {
+.sidebar img{
   position: absolute;
   width: 31px;
   height: 26px;
   top: 1209.9px;
-  left: 523px;
+  left: 546px;
   object-fit: contain;
 }
 
@@ -405,7 +406,7 @@
   letter-spacing: -0.68px;
   color: #19191b;
   top:1273.9px;
-  left:507px;
+  left:530px;
 }
 
 .With-lots-of-unique-2 {
@@ -421,7 +422,7 @@
   letter-spacing: -0.45px;
   color: #696871;
   top:1312.9px;
-  left:507px;
+  left:530px;
 }
 
 .bg_box3 {
@@ -431,7 +432,7 @@
   border-radius: 9px;
   background-color: white;
   top:1441.9px;
-  left:225px;
+  left:248px;
 }
 
 .Oval_box3 {
@@ -441,7 +442,7 @@
   height: 62px;
   background-color: rgba(84, 84, 212, 0.1);
   top:1464.9px;
-  left:250px;
+  left:273px;
 }
 
 .Path_box3 {
@@ -449,7 +450,7 @@
   height: 27px;
   background-color: #5454d4;
   top: 1482.9px;
-  left: 271px;
+  left: 294px;
   position: absolute;
 
 }
@@ -466,7 +467,7 @@
   letter-spacing: -0.68px;
   color: #19191b;
   top: 1547.9px;
-  left: 250px;
+  left: 273px;
   position:absolute;
 }
 
@@ -484,14 +485,14 @@
   letter-spacing: -0.45px;
   color: #696871;
   top: 1586.9px;
-  left: 250px;
+  left: 273px;
 }
 
 .bg_box4 {
   width: 230px;
   height: 247px;
   top: 1441.9px;
-  left: 482px;
+  left: 505px;
   border-radius: 9px;
   background-color: white;
   position: absolute;
@@ -503,14 +504,14 @@
   position: absolute;
   border-radius: 30px;
   top: 1464.9px;
-  left: 507px;
+  left: 530px;
   background-color: rgba(65, 62, 101, 0.1);
 }
 
-.chat-content {
+.chat-content img{
   position: absolute;
   top: 1483.9px;
-  left:525px;
+  left:548px;
   width: 27px;
   height: 26px;
   object-fit: contain;
@@ -529,14 +530,14 @@
   letter-spacing: -0.68px;
   color: #19191b;
   top: 1547.9px;
-  left: 507px;
+  left: 530px;
 }
 
 .With-lots-of-unique-4 {
   width: 179px;
   height: 76px;
   top: 1586.9px;
-  left: 507px;
+  left: 530px;
   position: absolute;
   font-family: CircularStd;
   font-size: 14.4px;
@@ -551,7 +552,7 @@
 .Build-a-perfect-land {
   position: absolute;
   top: 1254.9px;
-  left:771px;
+  left:788px;
   width: 456px;
   height: 126px;
   font-family: CircularStd;
@@ -567,7 +568,7 @@
 .Create-custom-landin {
   position: absolute;
   top: 1408.9px;
-  left: 770px;
+  left: 788px;
   width: 462px;
   height: 105px;
   font-family: CircularStd;
@@ -583,7 +584,7 @@
 .bg_form2 {
   position: absolute;
   top: 1548.9px;
-  left:770px;
+  left:788px;
   width: 194px;
   height: 54px;
   border-radius: 4.5px;
@@ -593,7 +594,7 @@
 .Check-all-features {
   position: absolute;
   top: 1563.9px;
-  left: 770px;
+  left: 788px;
   width: 194px;
   height: 24px;
   font-family: CircularStd;
